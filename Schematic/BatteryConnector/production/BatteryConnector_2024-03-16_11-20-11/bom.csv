@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+F1,Fuse_Littelfuse_372_D8.50mm,1,Fuse,
+J1,62650-1,1,+,
+J2,62650-1,1,-,
+J3,TestPoint_THTPad_D3.0mm_Drill1.5mm,1,+,
+J4,TestPoint_THTPad_D3.0mm_Drill1.5mm,1,-,
